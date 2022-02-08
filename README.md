@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luke
+- 👋 Hi, I’m Luke
 - 💞️ I’m a product designer by day
 - 👀 I’m interested in Dungeons and Dragons / trailbulding 
 - 🌱 I’m currently learning Javascript
